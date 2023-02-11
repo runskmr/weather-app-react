@@ -2,11 +2,11 @@
 
 A weather application built using React that allows users to search for weather information of any location. The application uses Axios to make API calls to retrieve the weather data.
 
-Features
-Search for weather information of any location
-Displays the current temperature, humidity, and weather conditions
-Uses Axios to make API calls to retrieve the weather data
-Clean and user-friendly interface
+## Features
+- Search for weather information of any location
+- Displays the current temperature, humidity, and weather conditions
+- Uses Axios to make API calls to retrieve the weather data
+- Clean and user-friendly interface
 
 
 # Getting Started with Create React App
