@@ -1,4 +1,5 @@
-React Weather Application
+### React Weather Application
+
 A weather application built using React that allows users to search for weather information of any location. The application uses Axios to make API calls to retrieve the weather data.
 
 Features
